@@ -7,7 +7,7 @@
 > Real-World Asset (RWA) Tokenization Protocol for Real-Estate Auctions and Mortgage Lending
 
 ## 📋 Table of Contents
-
+<a id="overview"></a>
 - [Overview](#overview)
 - [Features](#features)
 - [Architecture](#architecture)
@@ -26,6 +26,7 @@ RWA-DeFi-Contract is a decentralized finance protocol that enables Real-World As
 - **Mortgage Access**: Provides mortgage access to residents of jurisdictions (such as Prospera) who are blocked from traditional banking systems
 - **On-Chain Real Estate**: Enables seamless real estate transactions with on-chain property ownership and mortgage management
 
+<a id="features"></a>
 ## ✨ Features
 
 ### Core Capabilities
@@ -43,6 +44,7 @@ The protocol supports multiple interest rate models:
 - **Two-Slope Model**: [Two-slope interest rate model](https://www.desmos.com/calculator/ryesiw7hau)
 - **Smooth Curve Model**: [Smooth curve interest rate model](https://www.desmos.com/calculator/nimb8tbzgb)
 
+<a id="architecture"></a>
 ## 🏗️ Architecture
 
 ### Protocol Structure
@@ -81,6 +83,7 @@ contracts/
 - **Modular Interest Models**: Pluggable interest rate models for flexible lending terms
 - **Gas Optimization**: Efficient amortization calculations and state management
 
+<a id="getting-started"></a>
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -122,6 +125,7 @@ forge build
 npx hardhat compile
 ```
 
+<a id="development"></a>
 ## 💻 Development
 
 ### Project Structure
@@ -156,6 +160,7 @@ forge test --match-path test/Invariant.t.sol
 forge test --gas-report
 ```
 
+<a id="testing"></a>
 ## 🧪 Testing
 
 The test suite includes:
@@ -171,6 +176,7 @@ The test suite includes:
 forge coverage
 ```
 
+<a id="security"></a>
 ## 🔒 Security
 
 Security is a top priority. This project follows best practices:
@@ -189,6 +195,7 @@ See [SECURITY.md](SECURITY.md) for details on reporting security vulnerabilities
 
 ⚠️ **Warning**: This code has not been audited. Use at your own risk.
 
+<a id="contributing"></a>
 ## 📝 Contributing
 
 We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
@@ -201,6 +208,7 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guid
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
+<a id="license"></a>
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
