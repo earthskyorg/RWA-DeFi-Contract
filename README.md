@@ -215,8 +215,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Telegram**: [@Tech Genie](https://t.me/opensea712)
-- **Twitter**: [@Tech Genie](https://x.com/shinytechapes)
+- **Telegram**: [Tech Genie](https://t.me/opensea712)
+- **Twitter**: [Tech Genie](https://x.com/shinytechapes)
 
 ## 🙏 Acknowledgments
 
